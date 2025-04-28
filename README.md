@@ -3,7 +3,7 @@
 
 
  Live Demo
-Click here to view the live site
+https://maiadamuhammed.github.io/Restaurantee/
 
 📋 Features
 Beautiful Landing Page with a call-to-action button to "Book Your Table."
